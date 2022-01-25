@@ -1,0 +1,38 @@
+Question1:
+35
+egaugnal evitisnes esac a si nohtyP
+a case sensitive
+object oriented
+10
+Pythonisacasesensitivelanguage
+
+Question2:
+Hey, Arush Kumar Here!
+My SID is 21103121
+I am from CSE department and my CGPA is 9.2
+
+Question 3:
+Part a: 8
+Part b: 58
+Part c: 50
+Part d, a: 224
+Part d, b: 40
+Part e, a: 14
+Part e, b: 0
+
+Question4:
+Enter a=20
+Enter b=40
+Enter c=60
+c is greatest
+
+Question 5:
+Enter any line or paragraph : 
+my name is not on the top of the list
+Yes
+
+Question 6:
+Enter first side=10
+Enter second side=10
+Enter third side=1000
+NO
